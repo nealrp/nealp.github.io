@@ -94,12 +94,7 @@ iframe {
     color: #00274C;
      
 }
- 
-.menu li:hover > a, .menu .current-item > a {
-    text-decoration:underline;
-    font-weight: bold;
-    
-}
+
  
 /*----- Top Level -----*/
 
