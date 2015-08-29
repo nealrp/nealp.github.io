@@ -23,8 +23,9 @@ h1 {
 
 }
 h1.name{
-    text-align: left;
-    margin-left: 20px;
+    text-align: center;
+    margin-left: 50px;
+
     }
 
 h1.options{
