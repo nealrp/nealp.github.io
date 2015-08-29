@@ -27,9 +27,10 @@ div.content  {
     margin-right: auto;
     background-color: #00274C;
     color: white;
-    padding: 30px 30px; 
+    padding: 30px 30px;k 
     overflow: auto;
     max-width:1000px;
+    background-image: :url('/img/header.jpg');
 }
 
 img.logo {
