@@ -24,11 +24,13 @@ h1 {
 }
 h1.name{
     text-align: left;
+    float: left;
     margin-left: 20px;
     }
 
 h1.options{
     text-align: right;
+    float:right;
     margin-right: 20px;
 
 }
@@ -42,10 +44,10 @@ div.content  {
     margin-right: auto;
     background-color: #00274C;
     color: white;
-    padding: 30px 30px;k 
+    padding: 30px 30px;
     overflow: auto;
     max-width:1000px;
-    background-image: :url(img/header.jpg);
+   
 }
 
 img.logo {
