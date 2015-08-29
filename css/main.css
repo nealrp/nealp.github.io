@@ -13,7 +13,6 @@ body {
 div.main {
     
     width: 100%;
-    background-image: url(header.jpg);
     margin: 0 auto;
 }
 
@@ -48,7 +47,6 @@ div.content  {
 
 img.logo {
     width: 100%;
-    max-width:1000px;
     display:block;
     margin-left: auto;
     margin-right: auto;
