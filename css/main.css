@@ -17,22 +17,19 @@ div.main {
 }
 
 h1 {
-    
+    position:absolute;
     display: inline-block;
     clear:both;
 
 }
 h1.name{
-     position: relative;
     text-align: center;
     margin-left: 50px;
 
     }
 
 h1.options{
-    position: relative;
     font-size:1em;
-     margin-left: 500px;
 
 }
 div.content h1 {
@@ -101,6 +98,10 @@ iframe {
 
  
 /*----- Top Level -----*/
+ul li {
+     display:inline-block;
+    text-align: right;
+}
 
 
 .menu > ul > li > a {
