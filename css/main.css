@@ -91,6 +91,7 @@ iframe {
 .menu a {
     transition:all linear 0.15s;
     color: #00274C;
+    display:inline;
      
 }
 
