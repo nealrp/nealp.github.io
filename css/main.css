@@ -20,19 +20,18 @@ h1 {
     position:absolute;
     display: inline-block;
     clear:both;
+    text-align: right;
 
 }
 h1.name{
     text-align: center;
-    margin-left: 50px;
+    margin-left: 20px;
 
     }
 
 h1.options{
-   
     font-size:1em;
-    margin-left:auto;
-    margin-right: 50px;
+    margin-right: 20px;
 
 }
 div.content h1 {
