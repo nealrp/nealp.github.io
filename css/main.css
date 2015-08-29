@@ -18,20 +18,17 @@ div.main {
 
 h1 {
     position:absolute;
-    display: inline;
+    display: inline-block;
     clear:both;
 
 }
 h1.name{
     text-align: left;
-    float: left;
     margin-left: 20px;
     }
 
 h1.options{
-    text-align: right;
-    float:right;
-    margin-right: 20px;
+    
 
 }
 div.content h1 {
