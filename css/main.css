@@ -28,7 +28,7 @@ h1.name{
     }
 
 h1.options{
-   
+    font-size:1em;
 
 }
 div.content h1 {
@@ -99,7 +99,7 @@ iframe {
 
 
 .menu > ul > li > a {
-    display:inline-block;
+    display:inline;
     text-shadow:0px 1px 0px rgba(0,0,0,0.4);
     padding: 1px 1px; 
     
