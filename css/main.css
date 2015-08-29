@@ -98,10 +98,6 @@ iframe {
 
  
 /*----- Top Level -----*/
-ul li {
-     display:inline-block;
-    text-align: right;
-}
 
 
 .menu > ul > li > a {
@@ -112,11 +108,6 @@ ul li {
     background: #ffe47a;
 }
  
-/*----- Bottom Level -----*/
-.menu li:hover .sub-menu {
-    z-index:1;
-    opacity:1;
-}
 
 div.contact {
     width:100%;
