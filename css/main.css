@@ -29,6 +29,7 @@ h1.name{
 
 h1.options{
     font-size:1em;
+    display: inline-block;
 
 }
 div.content h1 {
