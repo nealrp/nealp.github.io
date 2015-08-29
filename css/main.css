@@ -20,7 +20,7 @@ h1 {
     position:absolute;
     display: inline-block;
     clear:both;
-    text-align: right;
+    
 
 }
 h1.name{
@@ -33,6 +33,20 @@ h1.options{
     font-size:1em;
     margin-right: 20px;
 
+}
+
+ul li {
+    text-align: right;
+     display:inline-block;
+}
+
+
+.options > ul > li > a {
+    text-shadow:0px 1px 0px rgba(0,0,0,0.4);   
+}
+ 
+.options > ul > li:hover > a {
+    background: #ffe47a;
 }
 div.content h1 {
     text-align: center;
@@ -87,18 +101,7 @@ iframe {
 
  
 /*----- Top Level -----*/
-ul li {
-     display:inline-block;
-}
 
-
-.options > ul > li > a {
-    text-shadow:0px 1px 0px rgba(0,0,0,0.4);   
-}
- 
-.options > ul > li:hover > a, .options > ul > .current-item > a {
-    background: #ffe47a;
-}
  
 
 div.contact {
