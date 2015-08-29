@@ -16,15 +16,18 @@ div.main {
     margin: 0 auto;
 }
 
-h1.name {
+h1 {
+    position:absolute;
     display: inline;
+    clear:both;
+
+}
+h1.name{
     text-align: left;
     margin-left: 20px;
     }
 
 h1.options{
-    display:inline;
-    clear:both;
     text-align: right;
     margin-right: 20px;
 
