@@ -103,11 +103,9 @@ iframe {
 .menu > ul > li {
    
     display:inline;
-    font-size:1em;
-    padding left: auto;
-    padding right: auto;
+    font-size:.5em;
 }
- 
+
 .menu > ul > li > a {
     display:inline-block;
     text-shadow:0px 1px 0px rgba(0,0,0,0.4);
