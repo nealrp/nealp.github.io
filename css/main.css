@@ -89,14 +89,6 @@ iframe {
    
 }
  
-.menu {
-    background: #FFCB05;
-    margin: 0 auto;
-    /*margin-right: auto;*/
-}
- 
-
- 
 .menu a {
     transition:all linear 0.15s;
     color: #00274C;
