@@ -93,12 +93,7 @@ iframe {
     color: #00274C;
      
 }
- 
-.menu li:hover > a, .menu .current-item > a {
-    text-decoration:underline;
-    font-weight: bold;
-    
-}
+
  
 /*----- Top Level -----*/
 
@@ -113,7 +108,7 @@ iframe {
 .menu > ul > li > a {
     display:inline-block;
     text-shadow:0px 1px 0px rgba(0,0,0,0.4);
-    padding: 10px 10px; 
+    
     
 }
  
