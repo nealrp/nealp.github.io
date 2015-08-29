@@ -85,33 +85,19 @@ iframe {
     margin-bottom: 1.5em;
 }
 
-/*----- Menu Outline -----*/
-.menu-wrap {
-    width:100%;
-    box-shadow:0px 1px 3px rgba(0,0,0,0.2);
-   
-}
- 
-.menu a {
-    transition:all linear 0.15s;
-    color: #00274C;
-    display:inline;
-     
-}
 
  
 /*----- Top Level -----*/
 ul li {
      display:inline-block;
-    text-align: right;
 }
 
 
-.menu > ul > li > a {
+.options > ul > li > a {
     text-shadow:0px 1px 0px rgba(0,0,0,0.4);   
 }
  
-.menu > ul > li:hover > a, .menu > ul > .current-item > a {
+.options > ul > li:hover > a, .options > ul > .current-item > a {
     background: #ffe47a;
 }
  
