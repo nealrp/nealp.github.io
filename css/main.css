@@ -29,6 +29,7 @@ h1.name{
     }
 
 h1.options{
+    text-align: right;
     font-size:1em;
     margin-right: 50px;
 
