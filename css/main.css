@@ -14,9 +14,21 @@ div.main{
     background: red;
 }
 
+div.options ul {
+    list-style: none;
+    margin-bottom: .5px;
+    margin-top: .5px;
+
+}
+
+div.options ul > li:hover > a {
+    background: #ffe47a;
+}
+
 div.footer-logos ul {
     list-style: none;
-    margin-bottom: 1px;
+    margin-bottom: .5px;
+    margin-top: .5px;
    
 }
 
