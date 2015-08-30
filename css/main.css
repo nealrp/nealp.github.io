@@ -29,26 +29,20 @@ h1.name{
 
     }
 
-h1.options{
+div.options{
     font-size:1em;   
 
 }
 
-ul {
-    text-align: right;
-   
+div.options > ul {
+    text-align: right; 
 }
 
-ul li {
+div.options > ul li {
       display:inline-block;
 }
 
-
-.options > ul > li > a {
-    text-shadow:0px 1px 0px rgba(0,0,0,0.4);   
-}
- 
-.options > ul > li:hover > a {
+div.options > ul > li:hover > a {
     background: #ffe47a;
 }
 div.content h1 {
