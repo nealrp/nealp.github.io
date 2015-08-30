@@ -30,16 +30,17 @@ h1.name{
     }
 
 h1.options{
-    font-size:1em;
-    
+    font-size:1em;   
 
 }
 
-ul li {
-    margin-right: 20px;
-    margin-left: auto;
+ul {
     text-align: right;
-     display:inline-block;
+   
+}
+
+ul li {
+      display:inline-block;
 }
 
 
