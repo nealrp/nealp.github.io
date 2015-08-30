@@ -7,14 +7,14 @@
 div.sidebar {
     width: 265px;
     height:100%;
-    display: inline-block; 
+    float:left;
     background: teal;
 }
 
 div.main{
     width: auto;
     height:100%;
-    display: inline-block; 
+    overflow: hidden; 
     background: red;
 }
 
