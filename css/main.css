@@ -14,7 +14,16 @@ div.main{
     background: red;
 }
 
+div.footer-logos ul {
+    list-style: none;
+    margin-bottom: 1px;
+   
+}
 
+div.footer-logos ul li {
+    display:inline-block;
+    padding: 2px 2px; 
+}
 
 
 
@@ -140,16 +149,7 @@ div.contact {
 
 
 
-div.footer-logos ul {
-    list-style: none;
-    margin-bottom: 5px;
-   
-}
 
-div.footer-logos ul li {
-    display:inline-block;
-    padding: 2px 10px; 
-}
 
 div.copyright {
     font-size: 12px;
