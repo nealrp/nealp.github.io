@@ -30,12 +30,12 @@ h1.name{
     }
 
 div.options{
-    font-size:1em;   
+    font-size: .5em;   
 
 }
 
 ul {
-     margin-left: 60px;
+     margin-left: 90%;
     text-align: right; 
      margin-right: 20px;
 }
