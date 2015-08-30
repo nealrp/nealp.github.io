@@ -28,6 +28,7 @@ div.footer-logos {
 }
 
 div.footer-logos ul {
+    padding: 0;
     list-style: none;
     margin-bottom: .5px;
     margin-top: .5px;
@@ -38,6 +39,7 @@ div.footer-logos ul li {
 }
 
 div.options ul {
+    padding: 0;
     margin-left: 10px;
     list-style: none;
     margin-bottom: 1px;
