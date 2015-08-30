@@ -20,13 +20,14 @@ div.main{
 
 img.Personal {
     margin-left: 40px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 h1.name{
     font-size: 2em;  
     margin-left: 40px;
+    margin-top: 0px;
 }
 
 div.footer-logos {
@@ -55,6 +56,7 @@ div.options ul {
 }
 div.options ul >li {
      font-size: 1em;  
+     text-decoration: none;
     text-align: justify;
     margin: 2px 2px 2px 2px;
     margin-bottom: 20px;
@@ -63,6 +65,10 @@ div.options ul >li {
 
 div.options ul > li:hover > a {
     background: #ffe47a;
+}
+
+div.options ul > li:active > a {
+    background: red;
 }
 
 /*
