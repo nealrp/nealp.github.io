@@ -17,11 +17,7 @@ div.main {
 }
 
 h1 {
-    position:absolute;
     display: inline-block;
-    clear:both;
-    
-
 }
 h1.name{
     text-align: center;
@@ -34,15 +30,14 @@ div.options{
 
 }
 
-div.options > ul {
+ul {
     text-align: right; 
 }
 
-div.options > ul li {
+ul li {
       display:inline-block;
 }
-
-div.options > ul > li:hover > a {
+ul > li:hover > a {
     background: #ffe47a;
 }
 div.content h1 {
