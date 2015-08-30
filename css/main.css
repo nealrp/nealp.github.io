@@ -2,19 +2,18 @@
 div.sidebar {
 
     width: 40%;
-    float: left;
+    height:100%;
+    display: inline-block; 
     background: teal;
 }
 
 div.main{
     width: 60%;
-    float: right; 
+    height:100%;
+    display: inline-block; 
     background: red;
 }
 
-.body{
-    height:100%;
-}
 
 
 
