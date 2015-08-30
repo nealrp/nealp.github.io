@@ -27,6 +27,7 @@ div.options ul > li:hover > a {
 
 div.footer-logos ul {
     list-style: none;
+    text-align: left;
     margin-bottom: .5px;
     margin-top: .5px;
    
