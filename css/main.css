@@ -5,16 +5,14 @@
 }
 
 div.sidebar {
-
-    width: 30%;
-    max-width: 265px;
+    width: 265px;
     height:100%;
     display: inline-block; 
     background: teal;
 }
 
 div.main{
-    width: 60%;
+    width: auto;
     height:100%;
     display: inline-block; 
     background: red;
