@@ -17,6 +17,7 @@ div.main {
 }
 
 h1 {
+    position:absolute;
     display: inline-block;
 }
 h1.name{
