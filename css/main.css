@@ -26,6 +26,7 @@ img.Personal {
 }
 
 h1.name{
+    font-size: 3em;  
     margin-left: 40px;
 }
 
@@ -42,7 +43,7 @@ div.footer-logos ul {
 
 div.footer-logos ul li {
     display:inline-block;
-    padding-right: 4px;
+    padding-right: 8px;
 }
 
 div.options ul {
@@ -54,10 +55,11 @@ div.options ul {
 
 }
 div.options ul >li {
+     font-size: 2em;  
     text-align: justify;
     margin: 2px 2px 2px 2px;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 div.options ul > li:hover > a {
