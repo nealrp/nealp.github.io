@@ -31,11 +31,12 @@ h1.name{
 
 div.options{
     font-size: .5em;   
+     text-align: right; 
+     float: right;
 
 }
 
 ul {
-    text-align: right; 
      margin-right: 20px;
 }
 
