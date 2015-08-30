@@ -20,11 +20,11 @@ div.main{
 }
 
 h1.name{
-    text-align: center;
+    margin-left: 10px;
 }
 
 div.footer-logos {
-    text-align: center;
+    margin-left: 10px;
 }
 
 div.footer-logos ul {
@@ -38,13 +38,14 @@ div.footer-logos ul li {
 }
 
 div.options ul {
+    margin-left: 10px;
     list-style: none;
     margin-bottom: 1px;
     margin-top: 1px;
 
 }
 div.options ul >li {
-    text-align: center;
+    text-align: justify;
     margin: 2px 2px 2px 2px;
 }
 
