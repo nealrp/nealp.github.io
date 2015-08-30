@@ -2,13 +2,13 @@
 div.sidebar {
 
     width: 40%;
-    float left;
+    float: left;
     background: teal;
 }
 
 div.main{
     width: 60%;
-    float right; 
+    float: right; 
     background: red;
 }
 
@@ -119,7 +119,7 @@ iframe {
 
 
  
-/*----- Top Level -----
+/*----- Top Level -----*/
 
  
 
@@ -139,7 +139,7 @@ div.contact {
 
 }
 
-*/
+
 
 div.footer-logos ul {
     list-style: none;
