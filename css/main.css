@@ -2,6 +2,9 @@
 body {
     line-height: 1.75em;
     color: rgba(0,0,0,0.75);
+
+    /* Always shows scrollbars so the ESG image doesn't shift between long
+       pages and short pages when scrollbar is present/not present. */ 
     overflow-y: scroll;
     font-size: 1.2em;
     background-color: #E5E5E5;
@@ -10,57 +13,12 @@ body {
 div.main {
     
     width: 100%;
-    height: 100%;
     margin: 0 auto;
 }
-
-/*----- Menu Outline -----*/
-.menu-wrap {
-    width:100%;  
-}
- 
-.menu {
-    background: #FFCB05;
-    margin: 0 auto;
-}
- 
-.menu a {
-    transition:all linear 0.15s;
-    color: #00274C;
-}
- 
-.menu li:hover > a {
-    text-decoration:underline;
-    font-weight: bold; 
-}
-
-.menu > ul > li {
-   
-    display:inline;
-    position:relative;
-    font-size:1em;
-    padding left: auto;
-    padding right: auto;
-}
- 
-.menu > ul > li > a {
-    display:inline-block;
-}
-
-.menu > ul {
-    text-align: center;
-    margin-left: 10px;
-    margin-right: 10px;
-}
- 
-.menu > ul > li:hover > a {
-    background: #ffe47a;
-}
- 
-
 
 h1 {
     position:absolute;
+    display: inline-block;
     clear:both;
     
 
@@ -71,6 +29,27 @@ h1.name{
 
     }
 
+h1.options{
+    font-size:1em;
+    
+
+}
+
+ul li {
+    margin-right: 20px;
+    margin-left: auto;
+    text-align: right;
+     display:inline-block;
+}
+
+
+.options > ul > li > a {
+    text-shadow:0px 1px 0px rgba(0,0,0,0.4);   
+}
+ 
+.options > ul > li:hover > a {
+    background: #ffe47a;
+}
 div.content h1 {
     text-align: center;
 }
