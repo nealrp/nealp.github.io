@@ -7,6 +7,7 @@
 div.sidebar {
     width: 265px;
     height:100%;
+    min-height: 600px;
     float:left;
     background: teal;
 }
@@ -21,17 +22,19 @@ div.main{
 img.Personal {
     margin-left: 40px;
     margin-top: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 h1.name{
     font-size: 2em;  
     margin-left: 40px;
     margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 div.footer-logos {
     margin-left: 40px;
+    margin-top: 20px;
 }
 
 div.footer-logos ul {
