@@ -1,7 +1,7 @@
 
 div.sidebar {
 
-    width: 40%;
+    width: 30%;
     height:100%;
     display: inline-block; 
     background: teal;
@@ -14,6 +14,16 @@ div.main{
     background: red;
 }
 
+div.footer-logos ul {
+    list-style: none;
+    margin-bottom: 1px;
+   
+}
+
+div.footer-logos ul li {
+    display:inline;
+    padding: 2px 2px; 
+}
 
 
 
