@@ -21,7 +21,7 @@ div.footer-logos ul {
 }
 
 div.footer-logos ul li {
-    display:inline;
+    display:inline-block;
     padding: 2px 2px; 
 }
 
