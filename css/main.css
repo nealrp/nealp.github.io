@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+title {
+    color: white;
+}
 div.sidebar {
     width: 265px;
     height:100%;
@@ -64,10 +66,11 @@ div.options ul >li {
     margin: 2px 2px 2px 2px;
     margin-bottom: 20px;
     margin-top: 20px;
+    color: white;
 }
 
 div.options ul > li:hover > a {
-    background: #d9effc;
+    background: #6fc3e4;
 }
 
 div.options ul > li:active > a {
@@ -210,7 +213,7 @@ div.copyright {
     line-height:150%;
     text-align: center;
     text-align: text-bottom;
-    color: #00274c;
+    color: white;
     background-color: #06538b;
 }
 
