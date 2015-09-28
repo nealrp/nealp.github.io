@@ -3,9 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-title {
-    color: white;
-}
+
 div.sidebar {
     width: 265px;
     height:100%;
@@ -32,6 +30,7 @@ h1.name{
     margin-left: 40px;
     margin-top: 0px;
     margin-bottom: 0px;
+    color: white;
 }
 
 div.footer-logos {
@@ -57,18 +56,17 @@ div.options ul {
     list-style: none;
     margin-bottom: 1px;
     margin-top: 1px;
-      text-decoration: none;
+    text-decoration: none;
 
 }
 div.options ul >li {
-    list-style: none;
      font-size: 1em;  
      text-decoration: none;
     text-align: justify;
     margin: 2px 2px 2px 2px;
     margin-bottom: 20px;
     margin-top: 20px;
-    color: white;
+    background-color: white;
 }
 
 div.options ul > li:hover > a {
