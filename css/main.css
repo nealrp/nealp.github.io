@@ -74,6 +74,14 @@ div.options ul > li:active > a {
     background: red;
 }
 
+h3 {
+     font-family: "Times New Roman", Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+
 /*
 
 
