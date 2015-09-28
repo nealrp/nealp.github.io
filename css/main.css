@@ -70,7 +70,8 @@ div.options ul >li {
 }
 
 div.options ul >li >a {
-      background-color: white;
+    text-decoration: none;
+     color: white;
 }
 div.options ul > li:hover > a {
     background: #6fc3e4;
