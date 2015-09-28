@@ -9,7 +9,7 @@ div.sidebar {
     height:100%;
     min-height: 600px;
     float:left;
-    background: teal;
+    background: #6fc3e4;
 }
 
 div.main{
@@ -67,7 +67,7 @@ div.options ul >li {
 }
 
 div.options ul > li:hover > a {
-    background: #ffe47a;
+    background: #d9effc;
 }
 
 div.options ul > li:active > a {
@@ -79,6 +79,7 @@ h3 {
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 20px;
+    text-align: center;
 
 }
 
@@ -204,15 +205,13 @@ div.contact {
 
 
 
-
-
 div.copyright {
     font-size: 12px;
     line-height:150%;
     text-align: center;
     text-align: text-bottom;
     color: #00274c;
-    background-color: #FFCB05;
+    background-color: #6fc3e4;
 }
 
 
