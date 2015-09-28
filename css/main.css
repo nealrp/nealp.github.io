@@ -57,6 +57,7 @@ div.options ul {
     list-style: none;
     margin-bottom: 1px;
     margin-top: 1px;
+      text-decoration: none;
 
 }
 div.options ul >li {
@@ -75,7 +76,7 @@ div.options ul > li:hover > a {
 }
 
 div.options ul > li:active > a {
-    background: red;
+    background: black;
 }
 
 h3 {
